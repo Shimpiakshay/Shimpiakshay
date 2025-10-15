@@ -105,10 +105,7 @@
 ## 📊 GitHub Activity & Stats
 
 ### 🚀 **My Coding Journey**
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Software Skills</title>
+
   <style>
     body {
       margin: 0;
