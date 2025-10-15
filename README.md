@@ -103,12 +103,9 @@
 ---
 ### **TECHNICAL SKILL'S**  ###
 
-  <div class="skill-container">
-    <div class="skill-name">HTML</div>
-    <div class="progress-bar">
-      <div class="progress html">90%</div>
-    </div>
-  </div>
+body{font-family:Arial,sans-serif;padding:20px;background-color:#f4f4f4}h2{text-align:center;margin-bottom:30px}.skill-container{margin-bottom:20px}.skill-name{font-weight:bold;margin-bottom:5px}.progress-bar{background-color:#ddd;border-radius:25px;overflow:hidden;height:25px}.progress{height:100%;border-radius:25px;text-align:right;padding-right:10px;line-height:25px;color:white;font-weight:bold}.html{width:90%;background-color:#e44d26}.css{width:80%;background-color:#264de4}.javascript{width:70%;background-color:#f0db4f;color:#000}.python{width:85%;background-color:#306998}
+
+
 
 
 
