@@ -105,14 +105,44 @@
 ## 📊 GitHub Activity & Stats
 
 ### 🚀 **My Coding Journey**
-<p align="center">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=Shimpiakshay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Akshay's%20GitHub%20Stats&line_height=28" 
-       alt="GitHub Stats" height="180" />
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimpiakshay&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" 
-       alt="Top Languages" height="180" />
-</p>
+<div class="center">
+  <h1>Software skills</h1>
+  <div class="skillbox">
+    <p>html5</p>
+    <p> 90%</p>
+    <div class="skill">
+      <div class="skill_level" style="width:90%"></div>
+    </div>
+  </div>
+  <div class="skillbox">
+    <p>css3</p>
+    <p> 70%</p>
+    <div class="skill">
+      <div class="skill_level" style="width:70%"></div>
+    </div>
+  </div>
+  <div class="skillbox">
+    <p>js</p>
+    <p> 60%</p>
+    <div class="skill">
+      <div class="skill_level" style="width:60%"></div>
+    </div>
+  </div>
+  <div class="skillbox">
+    <p>sql</p>
+    <p> 80%</p>
+    <div class="skill">
+      <div class="skill_level" style="width:80%"></div>
+    </div>
+  </div>
+  <div class="skillbox">
+    <p>c language</p>
+    <p> 85%</p>
+    <div class="skill">
+      <div class="skill_level" style="width:85%"></div>
+    </div>
+  </div>
+</div>
 
 
 
