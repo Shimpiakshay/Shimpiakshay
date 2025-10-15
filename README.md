@@ -43,7 +43,8 @@
 
  
 
-  <img align="right" src="https://github.com/Shimpiakshay/Shimpiakshay/blob/main/myphoto.png?raw=true" width="400">
+<img align="right"     src="https://github.com/Shimpiakshay/Shimpiakshay/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif?raw=true" width="400">
+
 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
