@@ -5,8 +5,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/avshimpi7">
-    <img src="https://komarev.com/ghpvc/?username=avshimpi7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Shimpiakshay">
+    <img src="https://komarev.com/ghpvc/?username=Shimpiakshay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:avshimpi7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -14,8 +14,8 @@
   <a href="https://linkedin.com/in/akshay-shimpi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/avshimpi7/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://github.com/Shimpiakshay?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge" alt="Projects" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 - 🔧 Specialized in **Java, Spring Boot, REST APIs, MySQL, and System Design**
 - 🌐 Experienced in full-stack development with **Angular, HTML, CSS, JavaScript**
 - 📍 Based in **Dhule, Maharashtra, India**
-
+- 📫 **Reach me at:** `avshimpi7@gmail.com`
 
 ---
 
@@ -38,6 +38,11 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+
+
+  <img align="right" src="https://github.com/Shimpiakshay/Shimpiakshay/blob/main/Developer%20(1).gif?raw=true" width="400">
+
+  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest" alt="REST API">
@@ -95,51 +100,103 @@
 ---
 
 
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
+### 🚀 **My Coding Journey**
 <p align="center">
-  <a href="https://github.com/avshimpi7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avshimpi7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Akshay's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avshimpi7&layout=compact&langs_count=8&theme=radical" alt="Akshay's Top Languages"/>
-  </a>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Shimpiakshay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Akshay's%20GitHub%20Stats&line_height=28" 
+       alt="GitHub Stats" height="180" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimpiakshay&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" 
+       alt="Top Languages" height="180" />
 </p>
 
+
+
+
+
+---
+
 <p align="center">
-  <a href="https://github.com/avshimpi7">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avshimpi7&theme=radical" alt="Akshay's GitHub Streak"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shimpiakshay&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" /> 
+  <img src="https://img.shields.io/github/followers/Shimpiakshay?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shimpiakshay?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+
+
+### 🐍 **Watch My Contributions Snake!**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shimpiakshay/Shimpiakshay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/akshay-shimpi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:avshimpi7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/avshimpi7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shimpiakshay&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" /> 
+  <img src="https://img.shields.io/github/followers/Shimpiakshay?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shimpiakshay?label=Stars&style=social" alt="GitHub Stars" />
 </p>
+🐍 How to make the snake animation work:
+The snake image link works only if you set up a GitHub Action once.
 
----
+Here’s how you can do it:
 
-## 🎯 Currently Working On
+Go to your repo (for example, Shimpiakshay/Shimpiakshay).
 
-- 🔨 Enhancing my skills in **Microservices Architecture**
-- 📚 Learning **Spring Cloud and Docker**
-- 💡 Exploring **System Design principles**
-- 🚀 Building **scalable backend systems**
+Inside that repo, create a folder: .github/workflows/.
 
----
+Inside that folder, create a file named:
+snake.yml
 
-<div align="center">
+Paste this inside snake.yml:
 
-### ⚡ **"Code with passion, build with precision"**
+yaml
+Copy code
+name: Generate Snake
 
-</div>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Shimpiakshay
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Commit and push this file to your main branch.
+
+The GitHub Action will automatically generate the snake.svg file.
+
+After a few minutes, your snake animation will appear on your profile 🎉
+
+Would you like me to modify it so the snake follows a “radical” color theme (pink/purple gradient) to match your GitHub stats theme?
+
+
+
+
+
+
+
+Voice chat ended
+
+
+
+
