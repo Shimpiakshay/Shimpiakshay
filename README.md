@@ -105,6 +105,73 @@
 ## 📊 GitHub Activity & Stats
 
 ### 🚀 **My Coding Journey**
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Software Skills</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background-color: #262626;
+      box-sizing: border-box;
+      text-transform: uppercase;
+    }
+
+    .center {
+      position: absolute;
+      width: 40%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 20px;
+      box-sizing: border-box;
+      background-color: #333;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+    }
+
+    h1 {
+      margin: 0;
+      padding: 0;
+      color: #fff;
+      letter-spacing: 2px;
+    }
+
+    .skillbox {
+      width: 100%;
+      margin: 20px 0;
+    }
+
+    .skillbox p {
+      color: #fff;
+      margin: 0 0 0 10px;
+      letter-spacing: 1px;
+      font-weight: bold;
+    }
+
+    .skillbox p:nth-child(2) {
+      position: relative;
+      float: right;
+      top: -22px;
+    }
+
+    .skill {
+      background-color: #262626;
+      padding: 4px;
+      border: 1px solid #0fffb7;
+      border-radius: 2px;
+    }
+
+    .skill_level {
+      background-color: #0fffb7;
+      width: 100%;
+      height: 10px;
+    }
+  </style>
+</head>
+<body>
+
 <div class="center">
   <h1>Software skills</h1>
   <div class="skillbox">
@@ -143,58 +210,9 @@
     </div>
   </div>
 </div>
-body{
-  margin:0;
-  padding:0;
-  font-family:sans-serif;
-  background-color:#262626;
-  box-sizing:border-box;
-  text-transform:uppercase;
-}
-.center{
-  position:absolute;
-  width:40%;
-  top:50%;
-  left:50%;
-  transform:translate(-50%,-50%);
-  padding:20px;
-  box-sizing:border-box;
-  background-color:#333;
-  box-shadow:0 20px 50px rgba(0,0,0,0.5);
-}
-h1{
-  margin:0;
-  padding:0;
-  color:#fff;
-  letter-spacing:2px;
-}
-.skillbox{
-  width:100%;
-  margin:20px 0;
-}
-.skillbox p{
-  color:#fff;
-  margin:0 0 0 10px;
-  letter-spacing:1px;
-  font-weight:bold;
-}
-.skillbox p:nth-child(2){
-  position:relative;
-  float:right;
-  top:-22px;
-}
-.skill{
-  background-color:#262626;
-  padding:4px;
-  border:1px solid #0fffb7;
-  border-radius:2px;
-}
-.skill_level{
-  background-color:#0fffb7;
-  width:100%;
-  height:10px;
-}
 
+</body>
+</html>
 
 
 
