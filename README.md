@@ -102,9 +102,6 @@
 
 ---
 
-
----
-
 ## 📊 GitHub Activity & Stats
 
 ### 🚀 **My Coding Journey**
