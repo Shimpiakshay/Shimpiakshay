@@ -116,18 +116,6 @@
 
 
 
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shimpiakshay&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" /> 
-  <img src="https://img.shields.io/github/followers/Shimpiakshay?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Shimpiakshay?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
-
-
 ### 🐍 **Watch My Contributions Snake!**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shimpiakshay/Shimpiakshay/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -140,63 +128,4 @@
   <img src="https://img.shields.io/github/followers/Shimpiakshay?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Shimpiakshay?label=Stars&style=social" alt="GitHub Stars" />
 </p>
-🐍 How to make the snake animation work:
-The snake image link works only if you set up a GitHub Action once.
-
-Here’s how you can do it:
-
-Go to your repo (for example, Shimpiakshay/Shimpiakshay).
-
-Inside that repo, create a folder: .github/workflows/.
-
-Inside that folder, create a file named:
-snake.yml
-
-Paste this inside snake.yml:
-
-yaml
-Copy code
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Shimpiakshay
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Commit and push this file to your main branch.
-
-The GitHub Action will automatically generate the snake.svg file.
-
-After a few minutes, your snake animation will appear on your profile 🎉
-
-Would you like me to modify it so the snake follows a “radical” color theme (pink/purple gradient) to match your GitHub stats theme?
-
-
-
-
-
-
-
-Voice chat ended
-
-
-
 
