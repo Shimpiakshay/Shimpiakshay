@@ -101,7 +101,7 @@
 - Participated in team discussions, code reviews, and project simulations
 
 ---
-
+### **TECHNICAL SKILL'S**  ###
 
 ---
 
